@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3e562d23-b333-49aa-ac02-f8e75fb3e5e4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <!--
 **qzqc/qzqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
